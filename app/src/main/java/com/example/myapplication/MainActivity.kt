@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
             if (haslo2.text.toString() == haslo1.text.toString()){
                 findViewById<TextView>(R.id.haslopOut).text=("Hasła są poprawne")}
              else{
-                findViewById<TextView>(R.id.haslopOut).text=("Hasła są różne")}
+                findViewById<TextView>(R.id.haslopOut).text=("Hasła są różne")}//
         }
     }
 }
