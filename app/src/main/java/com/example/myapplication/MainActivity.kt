@@ -1,4 +1,4 @@
-//Dawid Pergol IIpr POPRAWNOSC HASEL
+//Dawid Pergol IIpr POPRAWNOSC HASEL//
 package com.example.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
